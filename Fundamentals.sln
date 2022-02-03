@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternaries", "06_Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatements", "06_Conditionals\IfStatements\IfStatements.csproj", "{E3809810-7B9F-4A75-9D7A-720015A85536}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switches", "06_Conditionals\Switches\Switches.csproj", "{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,9 +64,14 @@ Global
 		{E3809810-7B9F-4A75-9D7A-720015A85536}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3809810-7B9F-4A75-9D7A-720015A85536}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3809810-7B9F-4A75-9D7A-720015A85536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{95000C6F-214D-41CB-89F0-0C8F939D25B0} = {74DFC233-E70F-4622-9780-17DCC2CFBB30}
 		{E3809810-7B9F-4A75-9D7A-720015A85536} = {74DFC233-E70F-4622-9780-17DCC2CFBB30}
+		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320} = {74DFC233-E70F-4622-9780-17DCC2CFBB30}
 	EndGlobalSection
 EndGlobal
