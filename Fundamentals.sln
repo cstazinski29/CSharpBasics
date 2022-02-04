@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatements", "06_Conditio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switches", "06_Conditionals\Switches\Switches.csproj", "{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "05_Booleans\Booleans.csproj", "{DFA39B38-69A4-4EF5-9AC1-35ACE58250BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1B2CD2-6A1B-4BE2-BA43-44AD6C779320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA39B38-69A4-4EF5-9AC1-35ACE58250BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA39B38-69A4-4EF5-9AC1-35ACE58250BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA39B38-69A4-4EF5-9AC1-35ACE58250BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA39B38-69A4-4EF5-9AC1-35ACE58250BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{95000C6F-214D-41CB-89F0-0C8F939D25B0} = {74DFC233-E70F-4622-9780-17DCC2CFBB30}
